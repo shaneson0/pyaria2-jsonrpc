@@ -1,0 +1,2 @@
+# pyaria2-jsonrpc
+一个用python简单的封装了aria2的jsonrpc中adduri的脚本
